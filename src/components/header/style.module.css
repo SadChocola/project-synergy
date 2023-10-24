@@ -1,0 +1,30 @@
+.container{
+    background-color: rgb(80, 80, 80);
+    height: 70px;
+    display: flex;
+    justify-content: center;
+}
+
+.navbar{
+    width: 700px;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.navel:visited {
+    color: white;
+}
+
+.navel {
+    text-decoration: none;
+}
+
+.navel:hover {
+    opacity: 0.5;
+    text-decoration: underline;
+}
